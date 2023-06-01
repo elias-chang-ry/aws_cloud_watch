@@ -1,7 +1,7 @@
-aws_cloud_watch
+AWS Cloud Watch
 ==============================
 
-AWS Cloud Watch System Metric Analysis
+Learning time-series EDA with AWS Cloud Watch System Metric Analysis
 
 Project Organization
 ------------
